@@ -1,0 +1,74 @@
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/6ea7ebdcc0ce72a36147b7fdbc7e1dd8/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/0b4e409bf73fe04ba4c55311fe17c545/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/933296acbedde83137b4809a4feaf2ac/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/f49b41e0aa89b4942c9e80c73a5ad8e8/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/517c820d497bd960829795ec5c3268cf/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/play-services-6.5.87.aar/9bb099fe5249d8a937b6559271eb3be9/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/3298c25a74f425cc45a7d24ea42b053a/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/1f4d10c0a82cceba992d9e6f3c3917e4/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/0c870cddde28598e239312f3ac2d412f/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/library-2.18.1.aar/962edf1fc5fad0b634ae654f7f09526b/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/7bfe89af5ca36b91164224dbe2e63fc9/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/c4c227e023df775fcc7d39a0061df492/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/626b31706f2b4d328dc27a7e3ff05d80/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/87e01b870ab97be84a93d2fe3b2e12c6/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/e187e29969074f28f20c916f15335584/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/afe3e7c1c9289eb371f8bcae4ba1badf/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/22a648b02cc1ed5427b612d2af26cd85/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/69d2103659cb6a99a1989900161a0446/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/ab2934ddab7a95a9c41b3ee600ff7a33/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/004a9ca97b36c92cd43fc45f18ff7d27/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/d848493e14bf94a55ab0caab7aba780b/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/21cc3372bfe8456356a52771570abded/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/b088a4d47eeaabe016b280558094c250/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/answers-shim-0.0.6.aar/87d94cbacc20011d9cc7d499294ed5ab/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.4.0/cc174c559b5177982887bf6e1b76003aebad9516/bolts-android-1.4.0.jar(**.class)
+-injars /Users/fams/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar(**.class)
+-injars /Users/fams/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar(**.class)
+-injars /Users/fams/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar(**.class)
+-injars /Users/fams/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/bc83365c725f896e22f9e863e6bfcc6e/jars/classes.jar(**.class)
+-injars /Users/fams/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar(**.class)
+-injars /Users/fams/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar(**.class)
+-injars /Users/fams/Desktop/Branch/Branchster-Android-No-SDK/app/build/intermediates/classes/debug(**.class)
+-outjars /Users/fams/Desktop/Branch/Branchster-Android-No-SDK/app/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /Users/fams/Library/Android/sdk/build-tools/26.0.2/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /Users/fams/Desktop/Branch/Branchster-Android-No-SDK/app/build/intermediates/multi-dex/debug/components.flags
+
+
+# Referenced at /Users/fams/Desktop/Branch/Branchster-Android-No-SDK/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:15
+-keep class io.branch.branchster.SE_Tanay_Nigam {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

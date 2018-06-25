@@ -1,0 +1,3 @@
+# Referenced at /Users/fams/Desktop/Branch/Branchster-Android-No-SDK/app/build/intermediates/manifests/full/release/AndroidManifest.xml:15
+-keep class io.branch.branchster.SE_Tanay_Nigam { <init>(...); }
+
